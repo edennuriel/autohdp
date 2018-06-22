@@ -1,0 +1,12 @@
+list users
+list groups
+add user to group
+change base 
+change KDC
+config - set defaults (KDC, DOMAIN, BASE, GROUP base, USERS Base, object class etc..)
+rmuser
+adduser
+showuser
+etc..
+
+verify cluster configuration 
